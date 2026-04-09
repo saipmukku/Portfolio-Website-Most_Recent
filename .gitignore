@@ -1,4 +1,7 @@
 node_modules/
 build/
+dist/
 Archive.zip
 .env
+.vercel
+.env*.local
